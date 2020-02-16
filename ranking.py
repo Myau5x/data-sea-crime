@@ -22,8 +22,9 @@ def rank_counting(df,CAT, imp_times=(0,2400)):
 
     mask_ti = (df['Occurred Time']>=day_start)|(df['Occurred Time']<=day_fin)
     df2 = df[mask_cat&mask_ti]
-    cat_agg = df2.groupby(by = ['Neighborhood','Beat']).agg('count')['Sector']
-    cat_num = cat_agg.groupby(level = 0).agg(['min','sum','count'])
+    cat = df2.groupby(by = ['Neighborhood','Beat']).agg('count')['Sector']
+    cat_gg = cat.groupby(level = 0).agg(['min','sum','count'])
+    cat_num = cat_agg.apply(lambda x: x['sum'] if x['count']==1 else (x['sum']-x['min'])/(x['count']-1),axis =1)
     s =  cat_num.sum()
     cat_num = cat_num/s
     return base_num + cat_num
@@ -58,6 +59,6 @@ rank_fam = 0.9*rank_counting(df_last,CAT_FAM,tim_fam)+0.1*rank_counting(df_prev,
 rank_el = 0.9*rank_counting(df_last,CAT_EL,tim_el)+0.1*rank_counting(df_prev,CAT_EL,tim_el)
 
 ##save to to_csv
-rank_st.to_csv('rank_student.csv')
-rank_fam.to_csv('rank_family.csv')
-rank_el.to_csv('rank_elderly.csv')
+rank_st.sort_values().to_csv('rank_student.csv')
+rank_fam.sort_values().to_csv('rank_family.csv')
+rank_el.sort_values().to_csv('rank_elderly.csv')
