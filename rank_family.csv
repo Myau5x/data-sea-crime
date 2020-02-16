@@ -1,59 +1,58 @@
-Neighborhood,ALASKA JUNCTION,ALKI,BALLARD NORTH,BALLARD SOUTH,BELLTOWN,BITTERLAKE,BRIGHTON/DUNLAP,CAPITOL HILL,CENTRAL AREA/SQUIRE PARK,CHINATOWN/INTERNATIONAL DISTRICT,CLAREMONT/RAINIER VISTA,COLUMBIA CITY,COMMERCIAL DUWAMISH,COMMERCIAL HARBOR ISLAND,DOWNTOWN COMMERCIAL,EASTLAKE - EAST,EASTLAKE - WEST,FAUNTLEROY SW,FIRST HILL,FREMONT,GENESEE,GEORGETOWN,GREENWOOD,HIGH POINT,HIGHLAND PARK,HILLMAN CITY,JUDKINS PARK/NORTH BEACON HILL,LAKECITY,LAKEWOOD/SEWARD PARK,MADISON PARK,MADRONA/LESCHI,MAGNOLIA,MID BEACON HILL,MILLER PARK,MONTLAKE/PORTAGE BAY,MORGAN,MOUNT BAKER,NEW HOLLY,NORTH ADMIRAL,NORTH BEACON HILL,NORTH DELRIDGE,NORTHGATE,PHINNEY RIDGE,PIGEON POINT,PIONEER SQUARE,QUEEN ANNE,RAINIER BEACH,RAINIER VIEW,ROOSEVELT/RAVENNA,ROXHILL/WESTWOOD/ARBOR HEIGHTS,SANDPOINT,SLU/CASCADE,SODO,SOUTH BEACON HILL,SOUTH DELRIDGE,SOUTH PARK,UNIVERSITY,WALLINGFORD,count,min,sum
-ALASKA JUNCTION,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ALKI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BALLARD NORTH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BALLARD SOUTH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BELLTOWN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BITTERLAKE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BRIGHTON/DUNLAP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CAPITOL HILL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CENTRAL AREA/SQUIRE PARK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CHINATOWN/INTERNATIONAL DISTRICT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CLAREMONT/RAINIER VISTA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-COLUMBIA CITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-COMMERCIAL DUWAMISH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-COMMERCIAL HARBOR ISLAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DOWNTOWN COMMERCIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EASTLAKE - EAST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EASTLAKE - WEST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-FAUNTLEROY SW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-FIRST HILL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-FREMONT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GENESEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GEORGETOWN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GREENWOOD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HIGH POINT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HIGHLAND PARK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HILLMAN CITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-JUDKINS PARK/NORTH BEACON HILL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LAKECITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LAKEWOOD/SEWARD PARK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MADISON PARK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MADRONA/LESCHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MAGNOLIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MID BEACON HILL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MILLER PARK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MONTLAKE/PORTAGE BAY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MORGAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOUNT BAKER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NEW HOLLY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NORTH ADMIRAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NORTH BEACON HILL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NORTH DELRIDGE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NORTHGATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PHINNEY RIDGE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PIGEON POINT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PIONEER SQUARE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-QUEEN ANNE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-RAINIER BEACH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-RAINIER VIEW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ROOSEVELT/RAVENNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ROXHILL/WESTWOOD/ARBOR HEIGHTS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SANDPOINT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SLU/CASCADE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SODO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SOUTH BEACON HILL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SOUTH DELRIDGE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SOUTH PARK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-UNIVERSITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WALLINGFORD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GENESEE,0.004375162406682237
+EASTLAKE - EAST,0.00494714324281999
+MADISON PARK,0.0053147571310347835
+PIGEON POINT,0.005587471551150006
+PHINNEY RIDGE,0.007380103203516451
+HILLMAN CITY,0.009770791397053544
+ALKI,0.010797372485178711
+HIGH POINT,0.011143610515459207
+NORTH DELRIDGE,0.011553024284985986
+MONTLAKE/PORTAGE BAY,0.011799723094530487
+LAKEWOOD/SEWARD PARK,0.013215160775400222
+MID BEACON HILL,0.013311755431678477
+SOUTH DELRIDGE,0.013347350116580088
+CLAREMONT/RAINIER VISTA,0.014751773802045653
+EASTLAKE - WEST,0.015623333965713469
+NEW HOLLY,0.017389874543261935
+COLUMBIA CITY,0.017895276673192424
+MILLER PARK,0.01793757350000769
+GREENWOOD,0.017977780173528867
+FAUNTLEROY SW,0.0195508456718088
+HIGHLAND PARK,0.020537610165160487
+MADRONA/LESCHI,0.020912266956468934
+SOUTH BEACON HILL,0.02197556978357848
+MORGAN,0.02253748720982901
+JUDKINS PARK/NORTH BEACON HILL,0.024479993483749064
+CENTRAL AREA/SQUIRE PARK,0.024950909182463114
+RAINIER BEACH,0.028652855736812612
+RAINIER VIEW,0.02907769476155868
+SANDPOINT,0.0292693188214146
+BITTERLAKE,0.03243187125236944
+SOUTH PARK,0.03348879473118044
+FIRST HILL,0.03386460243084951
+NORTH ADMIRAL,0.0347275932778506
+BALLARD NORTH,0.036527592264531734
+SLU/CASCADE,0.037754896540461304
+GEORGETOWN,0.042923965674084366
+ROOSEVELT/RAVENNA,0.04432440048372532
+LAKECITY,0.04607493679550549
+PIONEER SQUARE,0.047472391083147686
+BRIGHTON/DUNLAP,0.04887701290401107
+ROXHILL/WESTWOOD/ARBOR HEIGHTS,0.051777933310919635
+WALLINGFORD,0.05259813584324186
+NORTH BEACON HILL,0.05471722760033516
+BELLTOWN,0.057218465123849344
+MOUNT BAKER,0.05863295789261217
+ALASKA JUNCTION,0.05975264184285112
+QUEEN ANNE,0.06245189305993874
+NORTHGATE,0.06439656806362863
+MAGNOLIA,0.0668311167988172
+CAPITOL HILL,0.06807659760104591
+FREMONT,0.0699622867627828
+DOWNTOWN COMMERCIAL,0.07107668557970251
+SODO,0.07700748980002085
+UNIVERSITY,0.08424334649334943
+BALLARD SOUTH,0.08802509691592582
+CHINATOWN/INTERNATIONAL DISTRICT,0.10747877564442056
+COMMERCIAL DUWAMISH,
+COMMERCIAL HARBOR ISLAND,

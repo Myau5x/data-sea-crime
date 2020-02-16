@@ -23,7 +23,7 @@ def rank_counting(df,CAT, imp_times=(0,2400)):
     mask_ti = (df['Occurred Time']>=day_start)|(df['Occurred Time']<=day_fin)
     df2 = df[mask_cat&mask_ti]
     cat = df2.groupby(by = ['Neighborhood','Beat']).agg('count')['Sector']
-    cat_gg = cat.groupby(level = 0).agg(['min','sum','count'])
+    cat_agg = cat.groupby(level = 0).agg(['min','sum','count'])
     cat_num = cat_agg.apply(lambda x: x['sum'] if x['count']==1 else (x['sum']-x['min'])/(x['count']-1),axis =1)
     s =  cat_num.sum()
     cat_num = cat_num/s
