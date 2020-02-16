@@ -8,3 +8,8 @@ tim_fam = (800,2000)
 tim_el = (700,2100)
 
 I filter crime by category or timeframe
+
+I count only last 2 years (90 % for last year and 10% for previous year in)
+
+Score for crime is sum for all crimes and specific crimes for category
+total crime in Neighborhood were averaged  by number of beats 
